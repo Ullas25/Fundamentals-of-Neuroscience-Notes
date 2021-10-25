@@ -14,5 +14,5 @@ File discription:
 * Certificate of completion Part-3: My certificate of completion of Part-3
 * Program Completion Certificate: This is my certificate of completion of the whole program
 * Fundamentals of Neuroscience Part-1: My scanned notes of Fundamentals of Neuroscience, Part 1: The Electrical Properties of the Neuron
-* Fundamentals of Neuroscience Part-2: Fundamentals of Neuroscience, Part 2: Neurons and Networks
-* Fundamentals of Neuroscience Part-2: Fundamentals of Neuroscience, Part 3: The Brain
+* Fundamentals of Neuroscience Part-2: My scanned notes ofFundamentals of Neuroscience, Part 2: Neurons and Networks
+* Fundamentals of Neuroscience Part-2: My scanned notes of Fundamentals of Neuroscience, Part 3: The Brain
